@@ -11,7 +11,10 @@
 /runtime/*
 /temp/*
 
-/src/minecraft/*
+/src/minecraft/cpw/*
+/src/minecraft/ibxm/*
+/src/minecraft/net/*
+/src/minecraft/paulscode/*
 /src/minecraft_server/*
 /src/common/*
 !/src/common/dries007/
@@ -21,7 +24,7 @@
 *.bat
 *.sh
 
-except for /src/TheCyberfreak100/*
+
 
 *.class
 

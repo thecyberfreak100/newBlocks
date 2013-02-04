@@ -11,15 +11,10 @@
 /runtime/*
 /temp/*
 
-/src/minecraft/cpw/*
-/src/minecraft/ibxm/*
-/src/minecraft/net/*
-/src/minecraft/paulscode/*
+/src/minecraft/*
 /src/minecraft_server/*
 /src/common/*
-!/src/common/dries007/
-!/src/common/mcmod.info
-!/src/common/SP.png
+!/src/minecraft/TheCybefreak100/minecraft/newBlocks/*
 
 *.bat
 *.sh
